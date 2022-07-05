@@ -5,7 +5,7 @@ const AboutSection = () => {
       <div>
         <div id="About" class="py-1">
           <div class="container mx-auto px-6">
-             <h2 class="text-center text-5xl font-bold text-white">
+             <h2 class="text-center text-5xl font-thin text-white mt-24">
                 Meet The Team
             </h2>
              <img  alt="Logo"  src="/images/TeamTestImage.png" class="mx-auto mt-10 sm:mt-24 md:mt-24 lg:w-8/12 h-8/12 mb-10"></img>
