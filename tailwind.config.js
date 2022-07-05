@@ -6,6 +6,9 @@ module.exports = {
     "./public/**/*.html"
   ],
   theme: {
+    fontFamily: {
+      'sans': ['Helvetica Neue'],
+    },
     container: {
       center: true,
     },
