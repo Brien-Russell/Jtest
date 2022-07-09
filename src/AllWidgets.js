@@ -21,14 +21,14 @@ export const widgets = [
     {
         id: 4,
         name: 'Phenotypic Diversity and Hybridization',
-        link:  'google.com',
+        link:  'https://phyleauxsim.github.io/Hybridization_phenotype/',
         image:'/images/stylizedPhenotype.png',
 
     },
     {
         id: 5,
         name: 'Site Pattern Frequencies and Hybridization',
-        link:  'google.com',
+        link:  'https://phyleauxsim.github.io/Hybridization_sitepattern/',
         image:'/images/stylizedSitePattern.png',
 
     }
